@@ -4,3 +4,5 @@ test case 2
 test title : some title
 
 test case 3
+
+Info about test case2
